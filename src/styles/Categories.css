@@ -1,0 +1,29 @@
+.contCategory{
+    margin: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.category{
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    text-align: center;
+    color:rgb(1 22 39);
+    border: 1px solid rgb(1 22 39);
+    margin-bottom: 10px;
+
+}
+.category:hover{
+    background-color: rgb(1 22 39/90%);
+    color: white;
+    
+}
+
+.categorySelected{
+    background-color: rgb(1 22 39);
+    color: white;
+    border: 1px solid black;
+}

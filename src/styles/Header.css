@@ -1,0 +1,23 @@
+
+.loginUser{
+    display: flex;
+    align-items: center;
+}
+
+
+.shoppingCart{
+    font-size: 20px;
+    position: relative;
+}
+.itemsCart{
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    font-size: 13px;
+    background-color: rgb(190, 91, 91);
+    color:white;
+    text-align: center;
+    position: absolute;
+    top: 4px;
+    left: 6px;
+}

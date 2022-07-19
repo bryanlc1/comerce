@@ -1,0 +1,26 @@
+.btnCard:hover{
+    background-color: rgb(1 22 39 / 88%);
+    color: white;
+}
+
+.cardProduct{
+    margin: 0 20px 20px 0;
+}
+.contCardsProducts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.cardCategories{
+    background-color: rgb(1 22 39);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.contCardCategories{
+    display: flex;
+    justify-content: space-around;
+}
