@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getCategories } from "../services/products";
+import { getCategories } from "../services/Products";
 import useComerce from "../hooks/useComerce";
 import '../styles/Categories.css'
 const Categories = () => {
